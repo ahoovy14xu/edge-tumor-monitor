@@ -1,0 +1,8 @@
+NLST | https://www.cancerimagingarchive.net/collection/nlst/ | DOI 10.7937/TCIA.HMQ8-J677 | CC BY 4.0 | verified 2026-08-07
+NSCLC-Radiomics LUNG1 | https://www.cancerimagingarchive.net/collection/nsclc-radiomics/ | DOI 10.7937/K9/TCIA.2015.PF0M9REI | CC BY-NC 3.0 | verified 2026-08-07
+NSCLC-Radiogenomics | https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/ | DOI 10.7937/K9/TCIA.2017.7hs46erv | CC BY 3.0 | verified 2026-08-07
+RIDER Lung CT | https://www.cancerimagingarchive.net/collection/rider-lung-ct/ | DOI 10.7937/K9/TCIA.2015.U1X8A5NR | CC BY 3.0 | verified 2026-08-07
+4D-Lung | https://www.cancerimagingarchive.net/collection/4d-lung/ | DOI 10.7937/K9/TCIA.2016.ELN8YGLE | CC BY 3.0 | verified 2026-08-07
+LIDC-IDRI | https://www.cancerimagingarchive.net/collection/lidc-idri/ | public TCIA collection | verified 2026-08-07
+LUNA16 | https://luna16.grand-challenge.org/Data/ | challenge terms | verified 2026-08-07
+Medical Segmentation Decathlon Task06 Lung | http://medicaldecathlon.com/ | CC BY-SA 4.0 | verified 2026-08-07
